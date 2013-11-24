@@ -10,7 +10,7 @@
     , "url": "git://github.com/NicolaOrritos/sets.js.git"
   }
   
-  , "main": "app.js"
+  , "main": "index.js"
   
   , "dependencies": {}
 }
