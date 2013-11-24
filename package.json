@@ -1,0 +1,16 @@
+{
+    "name": "sets.js"
+  , "version": "0.1.0"
+  , "private": false
+  , "author": "Nicola Orritos"
+  , "readmeFilename": "README.md"
+  
+  , "repository": {
+      "type": "git"
+    , "url": "git://github.com/NicolaOrritos/sets.js.git"
+  }
+  
+  , "main": "app.js"
+  
+  , "dependencies": {}
+}
